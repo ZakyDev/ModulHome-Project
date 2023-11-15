@@ -1,0 +1,12 @@
+{
+  "short_name": "React App ModulHome",
+  "name": "ModulHome: Maison-conteneurs !",
+  "description": "ModulHome est un projet FrontEnd qui liste et filtre différents produits immobiliers",
+  "icons": [],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "prefer_related_applications": false,
+  "related_applications": []
+}
